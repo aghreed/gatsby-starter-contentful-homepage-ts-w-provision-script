@@ -6424,10 +6424,10 @@ gatsby-plugin-vanilla-extract@^2.0.1:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-vanilla-extract/-/gatsby-plugin-vanilla-extract-2.0.1.tgz#1e370983ae8d5b8c47a3b7cb864f24d49599c02a"
   integrity sha512-D0PY99JV/E/B0tVhe22zSf8fX3ygQrXIueOsZ0qn/1fb5HVGTbj+qv5Pu7cDAOX20gkoOGdp8cvgKp75eXKKbw==
 
-gatsby-provision-contentful@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/gatsby-provision-contentful/-/gatsby-provision-contentful-0.0.1.tgz#52496b49b03d9640e9b6a940272e667b77a8d5e3"
-  integrity sha512-jDX4AoUYV5DszV25fZk1S8OMA1R+uBde5CVnNmiqsKSu6eNoE/SgV1nbBF+snQWvyfqPbWcwI19MEyecJigDvA==
+gatsby-provision-contentful@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-provision-contentful/-/gatsby-provision-contentful-0.0.2.tgz#80fa9f4a6e273e2200010f19861c108ae1e84489"
+  integrity sha512-Zud/WPoE/8lRK9Uy26LW8zCoLZbx0dA2p0KufYnLSphDWy0hyGAFKrss7iGsVzgSPdsY3IiU83cDRkzy2sopvA==
   dependencies:
     chalk "4.1.0"
     contentful-import "^8.2.29"
