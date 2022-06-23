@@ -71,7 +71,7 @@ For a more detailed walkthrough, see the tutorial on how to [build your site wit
 Alternatively, you can deploy this starter directly to Gatsby Cloud.
 Note that you will need to set up your content in Contentful manually.
 
-[![Deploy to Gatsby](https://www.gatsbyjs.com/deploynow.png "Deploy to Gatsby")](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-contentful-homepage-ts)
+[![Deploy to Gatsby](https://www.gatsbyjs.com/deploynow.png "Deploy to Gatsby")](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/aghreed/gatsby-starter-contentful-homepage-ts-w-provision-script)
 
 ## Setting up Gatsby Cloud Preview
 
